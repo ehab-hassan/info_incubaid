@@ -1,1 +1,1 @@
-init
+# incubaid wiki
