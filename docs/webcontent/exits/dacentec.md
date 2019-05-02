@@ -1,4 +1,4 @@
-!(dacentec logo)[dacentec_logo.png]
+![dacentec logo](.../img/dacentec_logo.png)
 
 # Founded in 2009
 
