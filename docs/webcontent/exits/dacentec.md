@@ -1,5 +1,4 @@
-!(dacentec logo)[dacentec_logo.png]
-
+![dacentec logo](.../img/dacentec_logo.png)
 # Founded in 2009
 
 Founded by Wilbert and Kristof. Their goal was to create a datacenter which was super power efficient yet cost effective.
